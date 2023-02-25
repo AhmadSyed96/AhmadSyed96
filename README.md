@@ -28,3 +28,6 @@ Data is all around us, we just have to make the effort to collect it and transfo
 - 📫 How to reach me: https://www.linkedin.com/in/ahmad-syed/
 
 </details>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AhmadSyed96&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSyed96&hide=TeX&layout=compact)
