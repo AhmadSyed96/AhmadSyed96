@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ahmad+Syed....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-### Hey, Hello! 🌊
 
 <!-- <summary><strong>About Me</strong></summary> -->
 #### About Me
